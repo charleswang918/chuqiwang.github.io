@@ -12,3 +12,7 @@ I am a Master of Data Science student at the University of California, Irvine. M
 Research Interest
 ======
 My research interests broadly include statistical and machine learning, causal inference, deep learning, NLP and LLM.
+
+Contact
+======
+Email: chuqiw4@uci.edu
