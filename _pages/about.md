@@ -11,7 +11,7 @@ I am a Master of Data Science student at the University of California, Irvine. M
 
 Research Interest
 ======
-My research interests broadly include statistical and machine learning, causal inference, deep learning, NLP and LLM.
+My research interests broadly include statistical methods and applications, machine learning, causal inference, deep learning, NLP and LLM, experimental design, biostatistics and applications in health-related problems, such as mental health issues and public health concerns.
 
 Contact
 ======
