@@ -11,7 +11,7 @@ I am a Master of Data Science student at the University of California, Irvine. M
 
 Research Interest
 ======
-My research interests broadly include statistical methods and applications, machine learning and data mining, causal inference, deep learning, experimental design, biostatistics and their applications in interdisciplinary research especially in health-related problems, including mental health, environmental issues, food safety, and public health, etc. Recently I am particularity motivated to explore personalized medicine by developing AI systems for health monitoring and prevention through multimodal models.
+My research interests broadly include statistical methods and applications, machine learning and data mining, causal inference, deep learning, experimental design, biostatistics, and their applications in interdisciplinary research, especially in health-related problems, including mental health, environmental issues, food safety, and public health. Recently, I have been particularly motivated to explore personalized medicine by developing AI systems for health monitoring and prevention through multimodal models.
 
 Contact
 ======
